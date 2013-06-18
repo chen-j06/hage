@@ -1,0 +1,90 @@
+<!--
+body,td,th {
+}
+td.off{
+	background:url(../images/bg1.png);
+	color:#FFF;
+}
+td.on{
+	background:url(../images/bg3.png);
+	color:#FFF;
+}
+td.white{
+	background:#FFF;
+	vertical-align:text-top;
+}
+.navigation td{
+	cursor:hand;
+}
+.menu{
+	width:198px;
+	border:1;
+	color:#FFF;
+	font-size:18px;
+}
+.menu td{
+	cursor:hand;
+}
+.menu tr{
+	height:32px;
+	vertical-align:bottom;
+}
+
+.button_submit
+{
+	width:100px;
+	height:30px;
+	font-size:18px;
+	color:#FFF;
+	background:url(../images/bg3.png);
+}
+
+.tab_application{
+	border-collapse:collapse;
+}
+.tab_application td{
+	border:#CEDCED solid 1px;
+	border-collapse:collapse;
+}
+
+.tab_regist{
+	border-collapse:collapse;
+}
+.tab_regist tr{
+	height:30px;
+	vertical-align:bottom;
+}
+
+.tab_checkResult{
+	vertical-align:top;
+	border:#CEDCED solid 1px;
+	border-collapse:collapse;
+		
+}
+.tab_checkResult thead{
+	background:#E5EFF5;
+	color:#2E5488;
+	font-weight:bold;
+}
+.tab_checkResult td{
+	height:25px;
+	text-align:center;
+	border:#CEDCED solid 1px;
+	border-collapse:collapse;
+}
+
+.specialTd{
+	border:#CEDCED solid 1px;
+	background:#E5EFF5;
+	color:#2E5488;
+	font-weight:bold;
+}
+.inputTd{
+	border:#CEDCED solid 1px;
+}
+
+.errormess{
+	color:#F00;
+}
+	
+-->
